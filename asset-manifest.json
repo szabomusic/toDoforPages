@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4380da3d.chunk.css",
+    "main.js": "/static/js/main.d8e9dbf3.chunk.js",
+    "main.js.map": "/static/js/main.d8e9dbf3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.74b8c990.js",
+    "runtime-main.js.map": "/static/js/runtime-main.74b8c990.js.map",
+    "static/js/2.f007796a.chunk.js": "/static/js/2.f007796a.chunk.js",
+    "static/js/2.f007796a.chunk.js.map": "/static/js/2.f007796a.chunk.js.map",
+    "static/js/3.20b6998e.chunk.js": "/static/js/3.20b6998e.chunk.js",
+    "static/js/3.20b6998e.chunk.js.map": "/static/js/3.20b6998e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4380da3d.chunk.css.map": "/static/css/main.4380da3d.chunk.css.map",
+    "static/js/2.f007796a.chunk.js.LICENSE.txt": "/static/js/2.f007796a.chunk.js.LICENSE.txt",
+    "static/media/clouds.da66e3cf.png": "/static/media/clouds.da66e3cf.png",
+    "static/media/mountain.c2638a6b.mp4": "/static/media/mountain.c2638a6b.mp4",
+    "static/media/mountainpics.59a8f2a2.png": "/static/media/mountainpics.59a8f2a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74b8c990.js",
+    "static/js/2.f007796a.chunk.js",
+    "static/css/main.4380da3d.chunk.css",
+    "static/js/main.d8e9dbf3.chunk.js"
+  ]
+}
